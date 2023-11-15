@@ -1,0 +1,11 @@
+name: transit
+version: 0.0.1
+
+authors:
+  - David Sennerlöv <david@sennerlov.se>
+
+repository: "https://github.com/dsennerlov/transit.cr"
+
+crystal: '>= 1.10.1'
+description: 'Opiniated event pub/sub.'
+license: MIT
